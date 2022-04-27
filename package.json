@@ -69,6 +69,7 @@
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.4.22",
     "@storybook/testing-library": "^0.0.11",
+    "auto": "^10.36.5",
     "cross-env": "^7.0.3"
   },
   "description": "learning storybook",
